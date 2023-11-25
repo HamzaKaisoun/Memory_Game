@@ -7,7 +7,7 @@ Memory Game
 Das Memory Game ist eine Java-Anwendung, die das klassische Memory-Spiel mit einer grafischen Benutzeroberfläche (GUI) implementiert. Ziel ist es, Paare von Karten mit gleichen Bildern zu finden und Punkte zu sammeln.
 
 #### DATUM: 
-N/A (Versionsnummer oder Datum nicht in den bereitgestellten Informationen enthalten)
+15.Juni.2022
 #### WIE IST DAS PROJEKT ZU STARTEN: 
 Das Spiel wird gestartet, indem die Klasse "GameStarter" mit der Main-Methode ausgeführt wird. Nach dem Start wählt der Benutzer die Schwierigkeit und die Spieleranzahl aus und kann ein neues Spiel beginnen.
 
